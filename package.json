@@ -2,13 +2,13 @@
   "name": "ash-language",
   "displayName": "Ash",
   "description": "Syntax highlighting for the Ash programming language",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "lennoxrose",
   "icon": "icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lennoxrose/ash"
+    "url": "https://github.com/The-Ash-Team/ash-syntax"
   },
   "engines": { "vscode": "^1.60.0" },
   "categories": ["Programming Languages"],
